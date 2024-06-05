@@ -6,7 +6,7 @@ Predictions made with Facebook Prophet
 ## Setup
 Clone repo
 ```shell
-git clone git@github.com:MarkusSagen/stockpredictor-streamlit.git
+git clone git@github.com:devradheee/stockpredictor-streamlit.git
 cd stockpredictor-streamlit 
 ```
 
